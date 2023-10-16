@@ -34,4 +34,4 @@ Windows 系统要下载 Git bash
 
 - [image](https://img2.woyaogexing.com/2019/06/05/eba97870da8a4614aad02fdfa0a4f08d!1080x1920.jpeg)
   链接
-- ![维基百科 Markdown](https://zh.wikipedia.org/zh-hans/Markdown)
+- [维基百科 Markdown](https://zh.wikipedia.org/zh-hans/Markdown)
